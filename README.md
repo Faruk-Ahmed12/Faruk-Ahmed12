@@ -64,7 +64,7 @@ This project is mainly Online Shopping mall. Here I have added..
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="Faruk-Ahmed12's GitHub Stats" src="https://github-readme-stats.Faruk-Ahmed12.vercel.app/api?username=Faruk-Ahmed12&show_icons=true&hide_border=true" />
 
 </details>
 
