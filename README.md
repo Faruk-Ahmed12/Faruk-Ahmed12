@@ -28,8 +28,8 @@
 ![Flourish-and-Blotts](https://raw.githubusercontent.com/ishtiak-ahmed/ishtiak-ahmed/main/flourish-blotts.png)
 
 
-### Hogwarts express
-#### Metro Rail Ticket Booking site, [Live Site](https://e-shop-cedcc.web.app/), [Code Repo](https://github.com/Faruk-Ahmed12/e-shop-client), [Server Code](https://github.com/Faruk-Ahmed12/e-shop-server)
+### E Shopping Mall
+#### Online Shopping Mall project, [Live Site](https://e-shop-cedcc.web.app/), [Code Repo](https://github.com/Faruk-Ahmed12/e-shop-client), [Server Code](https://github.com/Faruk-Ahmed12/e-shop-server)
 This project is mainly Online Shopping mall. Here I have added..
 - React js
 - React Bootstrap
@@ -40,10 +40,9 @@ This project is mainly Online Shopping mall. Here I have added..
 - Material UI Icons
 
 
-![Hogwarts Express](https://raw.githubusercontent.com/Faruk-Ahmed12/hogwarts-express/main/hogwarts.png)
-
 
  [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Faruk-Ahmed12&count_private=true&theme=tokyonight&showicons=true)]()
+ 
  [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Faruk-Ahmed12&langs_count=5&theme=tokyonight)]()
 
 <!--
