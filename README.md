@@ -1,6 +1,7 @@
-### Hi There 👋
+### Hi There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-# I Am Faruk Ahmed
+# I am Faruk Ahmed
+
 ### Full-Stack Web Developer
 ### Connect with me:
 [![Facebook Profile](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/ODVUT.FARUK/) [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/faruk-ahmed-dev/) [![Twitter Profile](https://img.shields.io/twitter/follow/FarukPHERO?style=social)](https://twitter.com/FarukPHERO) 
