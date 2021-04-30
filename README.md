@@ -7,17 +7,18 @@
 
 ## My Recent Projects -
 
-### Rana Agency
-#### Private Detective and Security Firm Website, [Live Site](https://rana-agency.web.app/), [Client Repo](https://github.com/ishtiak-ahmed/rana-agency-client), [Server Repo](https://github.com/ishtiak-ahmed/rana-agency-server)
+### UEFA Champions League 
+#### Details of all football clubs can be found on this website, [Live Site](https://uefa-football.netlify.app/), [Code Link](https://github.com/Faruk-Ahmed12/UEFA-Champions-League),
 
-- Here user can hire service and give reviews. Admin can manage order, change order status, delete and add service, add new admin..
-- I used React, Bootstrap, Font Awesome icons, React Stripe for Payment to build the client side. For Backend I used- Node, Express, Mongodb and Heroku server to deploy live server.
+- view all club name, club type, clube flag, club region, all details in club in this Website..
+- I used React, Bootstrap, Font Awesome icons, Back-end Api Call and netlify server to deploy live server.
 
 ![Rana-Agency-Admin](https://raw.githubusercontent.com/ishtiak-ahmed/ishtiak-ahmed/main/rana-agency.png)
 
 
-### Flourish And Blotts
-#### Bookshop Website, [Live Site](https://flourish-and-blotts.web.app/), [Client Repo](https://github.com/ishtiak-ahmed/flourish---blotts-client), [Server Repo](https://github.com/ishtiak-ahmed/flourish-n-blotts-server)
+
+### City travels
+#### Bookshop Website, [Live Site](https://city-travels.netlify.app/), [Code Link](https://github.com/Faruk-Ahmed12/city-travels)
 - Products data coming from Mongodb server
 - User Specific order list
 - Google User authentication (login method)
@@ -28,8 +29,10 @@
 
 
 ### Hogwarts express
-#### Metro Rail Ticket Booking site, [Live Site](https://hogwatrs-express.web.app/), [Code Repo](https://github.com/ishtiak-ahmed/hogwarts-express)
-This project is mainly focused firebase authentication. Here I have added..
+#### Metro Rail Ticket Booking site, [Live Site](https://e-shop-cedcc.web.app/), [Code Repo](https://github.com/Faruk-Ahmed12/e-shop-client), [Server Code](https://github.com/Faruk-Ahmed12/e-shop-server)
+This project is mainly Online Shopping mall. Here I have added..
+- React js
+- React Bootstrap
 - Firebase Authentication
 - React Router
 - Private (secure) Routing
@@ -37,11 +40,11 @@ This project is mainly focused firebase authentication. Here I have added..
 - Material UI Icons
 
 
-![Hogwarts Express](https://raw.githubusercontent.com/ishtiak-ahmed/hogwarts-express/main/hogwarts.png)
+![Hogwarts Express](https://raw.githubusercontent.com/Faruk-Ahmed12/hogwarts-express/main/hogwarts.png)
 
 
-1. [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Faruk-Ahmed12&count_private=true&theme=tokyonight&showicons=true)]()
-2. [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Faruk-Ahmed12&langs_count=5&theme=tokyonight)]()
+ [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Faruk-Ahmed12&count_private=true&theme=tokyonight&showicons=true)]()
+ [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Faruk-Ahmed12&langs_count=5&theme=tokyonight)]()
 
 <!--
 **ishtiak-ahmed/ishtiak-ahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
