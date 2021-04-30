@@ -2,7 +2,7 @@
 
 # I Am Faruk Ahmed
 ### Full-Stack Web Developer
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/faruk-ahmed-dev/) [![Facebook Profile](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/ODVUT.FARUK/) 
+[![Facebook Profile](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/ODVUT.FARUK/) 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/faruk-ahmed-dev/) [![Twitter Profile](https://img.shields.io/twitter/follow/a?style=social)](https://twitter.com/FarukPHERO) 
 
 ## My Recent Projects -
