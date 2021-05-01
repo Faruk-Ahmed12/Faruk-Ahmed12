@@ -1,24 +1,26 @@
 # Hello, there! <img src="https://raw.githubusercontent.com/Mahfuz60/Mahfuz60/main/wave.gif" width="50px">
 
 ## I'm a 😍 JavaScript Lover 😍!
-## I’m currently working `Front-End Web Developer`
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: TypeScript, Next.js, Vue,Redux,React Native
+
+## I’m currently working `Full Stack Web Development`
+
+- 🌱 I’m currently learning Programming Languages 🤣
+- 🥅 2021 Goals: Python, TypeScript, Next.js, Vue,Redux,React Native
 - ⚡ Fun fact: I love to Explore the world 
 
 
-- ⚙️ I Use Daily: `.HTML`, `.CSS`, `React.js`, `Node.js`, `Express.js`, `.Bootstrap`
+- ⚙️ I Use Daily: `.HTML`, `.CSS`, `React.js`, `Node.js`, `Express.js`, `.Bootstrap`, `.MongoDB`, `.React Bootstrap`, `.FireBase`, `.GitHub`
 
 ### Connect with me:
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mahfuz-alam60/) 
-[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/MAHFUZ.71.BD) 
-[![Email ](https://img.shields.io/badge/%20-Email-black?color=14171A&labelColor=1976d2&logo=email&logoColor=ffffff)](mahfuzuralam1996@gmail.com/)
+[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/ODVUT.FARUK/) 
+[![Email ](https://img.shields.io/badge/%20-Email-black?color=14171A&labelColor=1976d2&logo=email&logoColor=ffffff)](techwithfaruk@gmail.com/)
 
 
 
 <!-- - ⚡️ Fun fact: I'm a huge fan of **Anime** -->
 
-## Technologies & Tools
+## Languages & Tools
 
 <img Align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img Align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -53,7 +55,7 @@
 
 ## Overview
 
-[![Mahfuz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahfuz60&count_private=true&show_icons=true&theme=radical)](https://github.com/Mahfuz60/github-readme-stats)
+[![Faruk Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faruk-Ahmed12&count_private=true&show_icons=true&theme=radical)](https://github.com/Faruk-Ahmed12/github-readme-stats)
 </br>
 </br>
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahfuz60&card_width=550&show_icons=true&theme=radical)](https://github.com/Mahfuz60)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Faruk-Ahmed12&card_width=550&show_icons=true&theme=radical)](https://github.com/Faruk-Ahmed12)
