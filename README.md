@@ -6,6 +6,13 @@
 ### Connect with me:
 [![Facebook Profile](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/ODVUT.FARUK/) [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/faruk-ahmed-dev/) [![Twitter Profile](https://img.shields.io/twitter/follow/FarukPHERO?style=social)](https://twitter.com/FarukPHERO) 
 
+<br />
+## I'm a 😍😍 JavaScript Lover 😍😍!
+- 🔭 I’m currently working [Programming Hero][programming]!
+- 🌱 I’m currently learning everything 🤣
+- 🥅 2021 Goals: TypeScript, Next.js, Vue
+- ⚡ Fun fact: I love to Explore the world 
+
 ## My Recent Projects -
 
 ### UEFA Champions League 
@@ -54,14 +61,16 @@ This project is mainly Online Shopping mall. Here I have added..
 [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
 [<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][webdevplaylist]
+[<img align="left" alt="Deno" width="30px" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/php.png" />][webdevplaylist]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
 <br />
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
@@ -79,7 +88,7 @@ This project is mainly Online Shopping mall. Here I have added..
 
  [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Faruk-Ahmed12&langs_count=5&theme=tokyonight)]()
 
-<!--
+<!-- 
 **ishtiak-ahmed/ishtiak-ahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -91,5 +100,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
